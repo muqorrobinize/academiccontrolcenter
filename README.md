@@ -7,35 +7,35 @@ Semua data disimpan secara lokal di browser Anda, memastikan privasi dan akses o
 
 ✨ Fitur Utama
 
-Manajemen Tugas Lengkap: Tambah, edit, dan hapus tugas dengan detail lengkap seperti mata kuliah, deskripsi, semester, tingkat kesulitan, tanggal tugas diberikan, dan deadline spesifik hingga jam dan menit.
+- Manajemen Tugas Lengkap: Tambah, edit, dan hapus tugas dengan detail lengkap seperti mata kuliah, deskripsi, semester, tingkat kesulitan, tanggal tugas diberikan, dan deadline spesifik hingga jam dan menit.
 
-Status Tugas Otomatis: Tugas akan secara otomatis berpindah ke kategori "Overdue" jika melewati deadline yang telah ditentukan.
+- Status Tugas Otomatis: Tugas akan secara otomatis berpindah ke kategori "Overdue" jika melewati deadline yang telah ditentukan.
 
-Statistik Performa Dinamis:
+- Statistik Performa Dinamis:
 
-Poin Prestasi: Dapatkan poin berdasarkan tingkat kesulitan tugas, ketepatan waktu, dan nilai yang diperoleh.
+- Poin Prestasi: Dapatkan poin berdasarkan tingkat kesulitan tugas, ketepatan waktu, dan nilai yang diperoleh.
 
-Peringkat Akademik: Naikkan peringkat Anda dari Novice hingga Prodigy berdasarkan akumulasi poin.
+- Peringkat Akademik: Naikkan peringkat Anda dari Novice hingga Prodigy berdasarkan akumulasi poin.
 
-Estimasi IPK & Rata-rata Nilai: Lacak performa akademik Anda secara kuantitatif.
+- Estimasi IPK & Rata-rata Nilai: Lacak performa akademik Anda secara kuantitatif.
 
 Kustomisasi Penuh:
 
-Profil Mahasiswa: Ubah nama, universitas, jurusan, dan foto profil Anda.
+- Profil Mahasiswa: Ubah nama, universitas, jurusan, dan foto profil Anda.
 
-Kategori Kustom: Tambah, ubah, atau hapus sendiri pilihan untuk "Kategori Mata Kuliah", "Semester", dan "Tingkat Kesulitan" melalui menu Pengaturan.
+- Kategori Kustom: Tambah, ubah, atau hapus sendiri pilihan untuk "Kategori Mata Kuliah", "Semester", dan "Tingkat Kesulitan" melalui menu Pengaturan.
 
-Mode Terang & Gelap: Sesuaikan tampilan antarmuka sesuai preferensi visual Anda.
+- Mode Terang & Gelap: Sesuaikan tampilan antarmuka sesuai preferensi visual Anda.
 
-Filter Tugas Cerdas: Saring tampilan tugas berdasarkan periode: Bulan Ini, Semester Ini, atau Keseluruhan.
+- Filter Tugas Cerdas: Saring tampilan tugas berdasarkan periode: Bulan Ini, Semester Ini, atau Keseluruhan.
 
-Ekspor Laporan Profesional:
+- Ekspor Laporan Profesional:
 
 Ekspor PDF Formal: Buat laporan PDF detail yang berisi ringkasan performa, daftar tugas, dan pernyataan motivasi dinamis yang disesuaikan dengan pencapaian Anda.
 
 Ekspor Story (PDF): Buat ringkasan visual yang estetik dalam format PDF vertikal (9:16), cocok untuk dibagikan di media sosial.
 
-Manajemen Data Lanjutan: Hapus semua tugas yang sudah selesai atau reset seluruh data aplikasi untuk memulai dari awal melalui menu Pengaturan.
+- Manajemen Data Lanjutan: Hapus semua tugas yang sudah selesai atau reset seluruh data aplikasi untuk memulai dari awal melalui menu Pengaturan.
 
 🚀 Cara Menggunakan
 
@@ -76,25 +76,20 @@ Perhatian: Menghapus data browser (seperti cache, cookies, dan site data) dapat 
 🛠️ Teknologi yang Digunakan
 
 
-HTML5: Struktur dasar aplikasi.
+- HTML5: Struktur dasar aplikasi.
 
-Tailwind CSS: Kerangka kerja CSS untuk desain antarmuka yang modern dan responsif.
+- Tailwind CSS: Kerangka kerja CSS untuk desain antarmuka yang modern dan responsif.
 
-JavaScript (ES6): Logika inti aplikasi, manajemen data, dan interaktivitas.
+- JavaScript (ES6): Logika inti aplikasi, manajemen data, dan interaktivitas.
 
-jsPDF: Library untuk menghasilkan laporan dalam format PDF.
+- jsPDF: Library untuk menghasilkan laporan dalam format PDF.
 
-html2canvas: Library untuk menangkap elemen HTML sebagai gambar (digunakan untuk ekspor).
+- html2canvas: Library untuk menangkap elemen HTML sebagai gambar (digunakan untuk ekspor).
 
-UUID: Library untuk menghasilkan ID unik bagi setiap tugas.
+- UUID: Library untuk menghasilkan ID unik bagi setiap tugas.
 
 ❤️ Kredit & Apresiasi
 
-Aplikasi ini dibuat dan dikembangkan dengan penuh semangat.
-
-
 Dibuat dengan Canvas on Gemini
 
-Desain & Konsep: @beenspace
-
-Pengembangan & Kode: @muqorrobinize
+@beenspace @muqorrobinize
